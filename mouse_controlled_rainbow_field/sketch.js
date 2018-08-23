@@ -1,8 +1,8 @@
 var points = []
-const point_gap = 10
-const point_size = 10
+var point_gap
+var point_size
 const total_colors = 768 // 256 * 3
-const mouse_radius = 80
+var mouse_radius
 const fade_out_speed = 20
 const fade_in_speed = 2
 const fade_out_color_step = 10
@@ -11,7 +11,14 @@ var mouse = {x: -100, y: -100}
 
 
 function setup() {
-  createCanvas(600, 600)
+  w = $(document).width()
+  h = $(document).height()  
+  console.log({w, h})
+  createCanvas(w, h)
+  // init values for pixel & mouse size
+  point_gap = w / 100
+  point_size = w / 100
+  mouse_radius = w / 20
 
   var color = {r: 255, g: 0, b: 0, mode: 1}
   r_up = true
