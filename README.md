@@ -1,2 +1,4 @@
 # P5JSPlayground
-Playground for p5.js projects
+All animations are based on p5.js library:
+
+https://github.com/processing/p5.js
