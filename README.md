@@ -18,7 +18,13 @@ You can click on screen, to change the date format from ISO 8601 (yyyy-mm-dd) to
 
 Repo Folder: https://github.com/FrozenMind/P5JSPlayground/tree/master/clock_1
 
+### Clock 2
+![alt text](https://github.com/FrozenMind/P5JSPlayground/blob/master/clock_2/clock_2.jpg)
+
+Repo Folder: https://github.com/FrozenMind/P5JSPlayground/tree/master/clock_2
+
 ### Mouse Controlled Rainbow Field
 ![alt text](https://github.com/FrozenMind/P5JSPlayground/blob/master/mouse_controlled_rainbow_field/mouse_controlled_rainbow_field.png)
 
 Repo Folder: https://github.com/FrozenMind/P5JSPlayground/tree/master/mouse_controlled_rainbow_field
+
