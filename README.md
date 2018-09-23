@@ -32,3 +32,14 @@ Live Preview: http://playground.valentinrebscher.de/mouse_controlled_rainbow_fie
 ![alt text](https://github.com/FrozenMind/P5JSPlayground/blob/master/mouse_controlled_rainbow_field/mouse_controlled_rainbow_field.png)
 
 Repo Folder: https://github.com/FrozenMind/P5JSPlayground/tree/master/mouse_controlled_rainbow_field
+
+## Sort Algorithm
+Live Preview: http://playground.valentinrebscher.de/sort_algorithm/index.html
+
+#### Supported algorithms
+* Bubble sort
+* Gnome sort
+
+![alt text](https://github.com/FrozenMind/P5JSPlayground/blob/master/sort_algorithm/sort_algo.jpg)
+
+Repo Folder: https://github.com/FrozenMind/P5JSPlayground/tree/master/sort_algorithm
